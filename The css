@@ -1,0 +1,379 @@
+/*CSS by Hostility, credit to "theworstgamer"*/
+ 
+/*Background + bg radial remover*/
+#app > div.interface.text-2 > div.background {
+  background: url(https://media.discordapp.net/attachments/925436702976266324/941573808224083988/640x360.jpg) repeat;
+  animation: loopPattern 80s linear infinite;
+}
+#app > div.interface.text-2 > div.background > div.pattern-bg {
+  background: url(https://media.discordapp.net/attachments/925436702976266324/940388065472553040/xenoverse.png) !important;
+  opacity: 1;
+  animation: none;
+}
+.bg-radial,
+#auth-user > div > div.card-cont.user-info > div.progress-lvl > div.progress-top > div.level > span,
+#app > div.game-interface > div.desktop-game-interface > div.weapons-cont > div.state-weapon-active.text-1 > div.mWwn {
+  display: none !important;
+}
+ 
+/*Transparent Play Button*/
+#play-btn {
+    background: rgba(68, 68, 68, .45) !important;
+    box-shadow: 4px 4px 10px #000 !important;
+}
+ 
+#play-btn .border-top {
+    background: none;
+}
+ 
+#play-btn .border-bottom {
+    background: none;
+}
+ 
+.triangle[data-v-02c36fca] {
+     display: none !important;
+}
+ 
+/*Profile*/
+.heads .levels {
+	color: #00FFFF !important;
+}
+ 
+/*HUD*/
+.kill-death {
+	position: fixed;
+	right: 1px;
+	bottom: 2%;
+	left: unset !important;
+	top: unset !important;
+}
+ 
+.mini-map-cont .name {
+	display: none;
+}
+ 
+.info-key-cont {
+	display: none;
+}
+ 
+.list-weapons {
+	display: none !important;
+}
+ 
+.hp {
+	margin-right: 20%;
+}
+ 
+.hp-title {
+	display: none !important;
+}
+ 
+.state {
+	margin-left: 36%;
+}
+ 
+.cont-endurance {
+	margin-left: 2%;
+}
+ 
+.mWwn {
+	display: none !important;
+}
+ 
+.weapons-cont {
+	margin-right: 46.5%;
+	margin-bottom: 3%;
+}
+ 
+.instruction {
+	display: none !important;
+}
+ 
+/*Chat*/
+.chat {
+	margin-bottom: -4%;
+}
+ 
+/*Ad Remover*/
+#ad-bottom, #ad-left{
+    visibility: hidden;
+}
+ 
+/*i dont know what to call it*/
+.play:before {
+	content: "CSS by thetalkingcat | Last Updated Feb 10 2022";
+	margin-right: 1145px;
+}
+ /*CSS by thetalkingcat*/
+ 
+/*Background + bg radial remover*/
+#app > div.interface.text-2 > div.background {
+  background: url(https://media.discordapp.net/attachments/925436702976266324/941573808224083988/640x360.jpg) repeat;
+  animation: loopPattern 80s linear infinite;
+}
+#app > div.interface.text-2 > div.background > div.pattern-bg {
+  background: url(https://media.discordapp.net/attachments/925436702976266324/940388065472553040/xenoverse.png) !important;
+  opacity: 1;
+  animation: none;
+}
+.bg-radial,
+#auth-user > div > div.card-cont.user-info > div.progress-lvl > div.progress-top > div.level > span,
+#app > div.game-interface > div.desktop-game-interface > div.weapons-cont > div.state-weapon-active.text-1 > div.mWwn {
+  display: none !important;
+}
+ 
+/*Transparent Play Button*/
+#play-btn {
+    background: rgba(68, 68, 68, .45) !important;
+    box-shadow: 4px 4px 10px #000 !important;
+}
+ 
+#play-btn .border-top {
+    background: none;
+}
+ 
+#play-btn .border-bottom {
+    background: none;
+}
+ 
+.triangle[data-v-02c36fca] {
+     display: none !important;
+}
+ 
+/*Profile*/
+.heads .levels {
+	color: #00FFFF !important;
+}
+ 
+/*HUD*/
+.kill-death {
+	position: fixed;
+	right: 1px;
+	bottom: 2%;
+	left: unset !important;
+	top: unset !important;
+}
+ 
+.mini-map-cont .name {
+	display: none;
+}
+ 
+.info-key-cont {
+	display: none;
+}
+ 
+.list-weapons {
+	display: none !important;
+}
+ 
+.hp {
+	margin-right: 20%;
+}
+ 
+.hp-title {
+	display: none !important;
+}
+ 
+.state {
+	margin-left: 36%;
+}
+ 
+.cont-endurance {
+	margin-left: 2%;
+}
+ 
+.mWwn {
+	display: none !important;
+}
+ 
+.weapons-cont {
+	margin-right: 46.5%;
+	margin-bottom: 3%;
+}
+ 
+.instruction {
+	display: none !important;
+}
+ 
+/*Chat*/
+.chat {
+	margin-bottom: -4%;
+}
+ 
+/*Ad Remover*/
+#ad-bottom, #ad-left{
+    visibility: hidden;
+}
+ 
+/*i dont know what to call it*/
+.play:before {
+	content: "CSS by thetalkingcat | Last Updated Feb 10 2022";
+	margin-right: 1145px;
+}
+ /* Ui Elements */
+.kill-death {
+  position: fixed;
+  right: 1px;
+  bottom: 95.7%;
+  left: unset !important;
+  top: unset !important;
+}
+.chat {
+  margin-bottom: -4%;
+}
+.mini-map-cont {
+  display: none;
+}
+.list-weapons {
+  display: none !important;
+}
+.state {
+  margin-left: 37%;
+  transform: unset;
+}
+.timer {
+  position: fixed;
+  right: 56.125rem;
+}
+.bg[data-v-1d4749de] {
+  backdrop-filter: blur(6px) !important;
+  background: rgba(0, 0, 0, 0.5) !important;
+  border-radius: 3px;
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.31);
+  padding: 0.4rem 0.6rem;
+  margin-right: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.endurance-progress[data-v-57051149] {
+  border-radius: 0.188rem;
+  background: var(--primary-1);
+  height: 0.7rem;
+  transition: width 0.6s ease;
+}
+.messages[data-v-76a3fe0a] {
+  backdrop-filter: blur(6px) !important;
+  background: linear-gradient(to right, var(--primary-1) 2px, transparent 2px) 0
+      100%,
+    linear-gradient(to left, var(--primary-1) 2px, transparent 2px) 100% 100%,
+    linear-gradient(to top, var(--primary-1) 2px, transparent 2px) 0 100%,
+    linear-gradient(to top, var(--primary-1) 2px, transparent 2px) 100% 100%,
+    linear-gradient(to right, var(--primary-1) 2px, transparent 2px) 0 0,
+    linear-gradient(to left, var(--primary-1) 2px, transparent 2px) 100% 0,
+    linear-gradient(to bottom, var(--primary-1) 2px, transparent 2px) 0 0,
+    linear-gradient(to bottom, var(--primary-1) 2px, transparent 2px) 100% 0 !important;
+  background-repeat: no-repeat !important;
+  background-size: 10px 10px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: left;
+  margin-bottom: 0.6rem;
+  min-height: 11.75rem;
+  width: 361px;
+  overflow-y: auto;
+  direction: rtl;
+  padding-left: 0.4rem;
+  border-radius: 0px;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: var(--white);
+  height: 100%;
+}
+.ammunition[data-v-86159fd0] {
+  font-size: 4.5rem;
+}
+.weapons-cont {
+  position: center;
+  margin-right: 38%;
+  margin-bottom: 16%;
+  transform: unset;
+}
+.mWwn[data-v-86159fd0] {
+  display: none !important;
+}
+.death-cont[data-v-cee7d6a4] {
+  background-color: var(--background-dark) !important;
+  background: linear-gradient(to right, var(--primary-1) 2px, transparent 2px) 0
+      100%,
+    linear-gradient(to left, var(--primary-1) 2px, transparent 2px) 100% 100%,
+    linear-gradient(to top, var(--primary-1) 2px, transparent 2px) 0 100%,
+    linear-gradient(to top, var(--primary-1) 2px, transparent 2px) 100% 100%,
+    linear-gradient(to right, var(--primary-1) 2px, transparent 2px) 0 0,
+    linear-gradient(to left, var(--primary-1) 2px, transparent 2px) 100% 0,
+    linear-gradient(to bottom, var(--primary-1) 2px, transparent 2px) 0 0,
+    linear-gradient(to bottom, var(--primary-1) 2px, transparent 2px) 100% 0;
+  background-repeat: no-repeat;
+  background-size: 10px 10px;
+}
+.tab-info[data-v-7f1c00bc] {
+  z-index: 5;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  max-width: 60rem;
+  border-radius: 5px;
+  padding: 0;
+  background: rgba(0, 0, 0, 0.5) !important;
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.31);
+  border-radius: 1.25rem;
+  color: var(--white);
+}
+.mini-map-cont {
+  display: none;
+}
+.team-score .label {
+  margin: 26.5px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.player[data-v-7f1c00bc] {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.2rem;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  border-radius: 0.5rem;
+  padding: 0 0.5rem;
+  margin-bottom: 0.6rem;
+  font-weight: 700;
+  height: 2.5rem;
+}
+.kill-bar-item[data-v-6200f284] {
+  margin-top: 0.7rem;
+  border-left-style: solid;
+  border-color: var(--primary-1);
+  border-width: 6px;
+  background-image: linear-gradient(to left, transparent, #e24f4f2b);
+  background-color: rgba(41, 41, 41, 0.34);
+  border-radius: 0px !important;
+  padding: 0.3rem 0.7rem;
+  display: flex;
+  align-items: cenwter;
+}
+.kill-bar-cont[data-v-6200f284] {
+  top: 40px;
+}
+.user-card[data-v-cee7d6a4] {
+  background-color: var(--background-dark) !important;
+  background: linear-gradient(to right, var(--primary-1) 2px, transparent 2px) 0
+      100%,
+    linear-gradient(to left, var(--primary-1) 2px, transparent 2px) 100% 100%,
+    linear-gradient(to top, var(--primary-1) 2px, transparent 2px) 0 100%,
+    linear-gradient(to top, var(--primary-1) 2px, transparent 2px) 100% 100%,
+    linear-gradient(to right, var(--primary-1) 2px, transparent 2px) 0 0,
+    linear-gradient(to left, var(--primary-1) 2px, transparent 2px) 100% 0,
+    linear-gradient(to bottom, var(--primary-1) 2px, transparent 2px) 0 0,
+    linear-gradient(to bottom, var(--primary-1) 2px, transparent 2px) 100% 0;
+  background-repeat: no-repeat;
+  background-size: 10px 10px;
+  border: none !important;
+  border-radius: 0px !important;
+}
+ 
+.interface .logo {
+    display: none;
+}
