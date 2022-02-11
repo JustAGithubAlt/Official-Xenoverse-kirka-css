@@ -383,3 +383,8 @@
   visibility: visible !important;
   position: absolute;
   display: flex !important;
+
+}
+.soc-group {
+    display: none !important;
+}
